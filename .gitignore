@@ -10,6 +10,8 @@
 .svn/
 migrate_working_dir/
 
+anotacoes.txt
+
 # IntelliJ related
 *.iml
 *.ipr
